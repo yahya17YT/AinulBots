@@ -17,8 +17,8 @@ https://github.com/AinulBot
 _*Jangan Lupa Bilang Makasih*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
-handler.help = ['sc', 'sourcecode']
-handler.tags = ['info']
-handler.command = /^(sc|sourcecode)$/i
+handler.help = ['scsfsccs', 'sourcbsbsvsvecode']
+handler.tags = ['inscvsvfo']
+handler.command = /^(sc|sourcecvsvsvsvode)$/i
 
 module.exports = handler
