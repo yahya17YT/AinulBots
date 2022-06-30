@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6285754202785'] 
+global.owner = ['6285784715971'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Ainul'
-global.numberowner = '6285754202785'
+global.numberowner = '6285784715971'
 global.instagram = 'https://instagram.com/ainul_181'
 global.github = 'https://github.com/AinulBotz'
-global.dana = '08971724481'
-global.pulsa = '08971724481'
-global.gopay = '08971724481'
+global.dana = '085784715971'
+global.pulsa = '085784715971'
+global.gopay = '085784715971'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'AinulBotz'
-global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
-global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Yahya17Botz'
+global.gc = 'https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH'
+global.web = 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/AinulBotz-06-26-2' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/AinulBotz-06-26-2' //ini juga ganti 
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'AinulBotz'
-global.watermark = wm
-global.wm2 = '                     「 AinulBotz⁩ 」'
-global.wm3 = '⫹⫺ AinulBotz'
+global.fotonya1 = 'https://i.ibb.co/rxRCxNr/20220628-120825.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.ibb.co/rxRCxNr/20220628-120825.jpg' //ini juga ganti 
+global.lolkey = 'Yahya17Botz' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'yahya17' //ganti jadi apikey lu kalau expired
+global.wm = 'Yahya17Botz'
+global.watermark = 'Yahya17 Store'
+global.wm2 = '© Yahya17'
+global.wm3 = '© Yahya17'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/AinulBotz-06-26-2'
+global.media = 'https://i.ibb.co/rxRCxNr/20220628-120825.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = 'AinulBotz'
+global.packname = 'Yahya17 Botz'
+global.author = '© Yahya17'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
