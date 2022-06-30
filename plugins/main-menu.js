@@ -534,9 +534,9 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 
            },
            {
-             quickReplyButton: {
+             urlButton: {
                displayText: 'Credits',
-               id: '.tqto',
+               url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg',
              }
            }]
          }
