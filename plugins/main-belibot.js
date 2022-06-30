@@ -1,7 +1,7 @@
 let handler = async (m, { conn }) => {
 const ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '6285784715971-1614953337@g.us',
     participant : '0@s.whatsapp.net'
     },
     message: {
@@ -10,8 +10,8 @@ const ftroli = {
     status: 1,
     surface : 1,
     message: 'Get Bot', 
-    orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    orderTitle: `Yahya17Botz`,
+    thumbnail: 'https://i.ibb.co/pQY6ybs/20220628-120630.png', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
