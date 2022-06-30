@@ -26,7 +26,7 @@ Runtime: ${uptime}`
     surface : 1,
     message: `2022 © ${namebot}, 
     orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    thumbnail: 'https://i.ibb.co/rxRCxNr/20220628-120825.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
