@@ -22,6 +22,8 @@ Arigatou!
 Contact person Owner:
 wa.me/6485784715971 (Owner)
  
+*donasi via follow ig juga boleh*`
+  conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Back', '.help', m) 
 }
 handler.help = ['donasi', 'donate']
 handler.tags = ['xp', 'info']
