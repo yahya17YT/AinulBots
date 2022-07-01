@@ -4,10 +4,10 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ainul'
+global.nameowner = 'Yahya17 Store'
 global.numberowner = '6285784715971'
-global.instagram = 'https://instagram.com/ainul_181'
-global.github = 'https://github.com/AinulBotz'
+global.instagram = 'https://instagram.com/yahya17_ch'
+global.github = 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
 global.dana = '085784715971'
 global.pulsa = '085784715971'
 global.gopay = '085784715971'
